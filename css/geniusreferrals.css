@@ -1,0 +1,7 @@
+.gr_wrapper{
+    clear: both;
+    margin: 0px auto;
+    min-width: 930px;
+    max-width: 1024px;
+    overflow: hidden;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>geniusreferrals</name>
+	<displayName><![CDATA[Referrals Programs Made Easy]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Increase your customer acquisition and sales with ours refer a friend programs. Take advantage of our low-cost plans. Best price in the market!]]></description>
+	<author><![CDATA[Genius Referrals]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,19 @@
+{
+    "name": "geniusreferrals/prestashop-module",
+    "description": "Client that allows you to consume the Genius Referrals API for implementing referral marketing programs.",
+    "keywords": ["geniusreferrals", "referral marketing programs", "word of mouse", "promotion programs", "referral programs", "promotion campaigns", "referral campaigns", "marketing campaigns", "api"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Genius Referrals",
+            "email": "dev@geniusreferrals.com",
+            "homepage": "http://www.geniusreferrals.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/GeniusReferrals/GRAPIPHPClient/issues"
+    },
+    "require": {
+        "geniusreferrals/gr-api-php-client": "*"
+		}
+}
